@@ -104,13 +104,13 @@ The Advance folder focuses on real-world data preprocessing and manipulation tec
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/pandas-learning.git
+git clone https://github.com/jaypal7903/pandas
 ```
 
 Navigate to the project directory:
 
 ```bash
-cd pandas-learning
+cd pandas
 ```
 
 Install dependencies:
